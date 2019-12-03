@@ -16,6 +16,6 @@
 - https://www.jianshu.com/p/27886010fda0?open_source=weibo_search
 - https://www.zybuluo.com/hobby/note/67425
 - https://www.jianshu.com/p/2de7fbb34b5f vscode
-- https://www.mdeditor.com/ 在线编辑器
+- https://www.mdeditor.com/  在线编辑器
 
 ![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
