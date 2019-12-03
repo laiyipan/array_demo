@@ -5,7 +5,7 @@
 //get an array
 int *getArray()
 {
-    static int r[10];
+    static int r[10];//定义静态数组
     int i;
     int j;
     //   for ( i = 0; i < 10; ++i)
