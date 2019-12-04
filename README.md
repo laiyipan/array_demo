@@ -11,3 +11,5 @@ Git操作指南
 markdown的编写方法
 ##ScreenShot
 截图工具
+##Struct
+结构体例子程序
