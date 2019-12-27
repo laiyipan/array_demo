@@ -1,9 +1,10 @@
 #Git操作指南
 ##1.使用Github
 1）注册个人github账号。
-(www.github.com)
+前往：www.github.com
+注册：提供邮箱，账号，密码。
 2）创建仓库。
-点击New
+进入Repo Tab页，点击New
 ![创建仓库](pics\2019-12-02_135831.png "创建仓库")
 
 填入必要信息
@@ -30,7 +31,7 @@ git clone https://github.com/laiyipan/array_demo.git
 ![克隆仓库](pics\2019-12-02_140846.png "克隆仓库")
 ![克隆仓库](pics\2019-12-02_141434.png "克隆仓库")
 
-
+备注：截止目前，Git基本
 ####初始化仓库 ：Git init
 ```git
 git init
@@ -113,3 +114,6 @@ commit后，push，注意观察左侧展示的History
 ![历史](pics\2019-12-03_111954.png "历史")
 
 ##4.其他功能
+进入github，setting，Collaborators，添加合作者，对方会收到邮件，同意后，对方可以对仓库进行push。
+![Git合作](pics\collaboration.png "Git合作")
+
